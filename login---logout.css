@@ -1,0 +1,108 @@
+ .u-section-1 {
+  min-height: 855px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3rem;
+  font-weight: 700;
+  margin: 42px calc(((100% - 1140px) / 2) + 456px) 0 calc(((100% - 1140px) / 2));
+}
+
+.u-section-1 .u-image-1 {
+  width: 721px;
+  height: 721px;
+  object-position: 2.6% 50%;
+  background-position: 50% 50%;
+  background-image: url("images/vbvb-min.jpg");
+  margin: -74px calc(((100% - 1140px) / 2) + -212px) 0 auto;
+}
+
+.u-section-1 .u-form-1 {
+  width: 570px;
+  margin-left: calc(((100% - 1140px) / 2));
+  margin-bottom: 60px;
+  margin-top: -533px;
+  height: 403px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    margin-right: calc(((100% - 940px) / 2) + 256px);
+    margin-left: calc(((100% - 940px) / 2));
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-right: calc(((100% - 940px) / 2));
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 470px;
+    margin-right: 0;
+    margin-left: calc(((100% - 940px) / 2));
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-top: 1027px;
+    margin-right: calc(((100% - 720px) / 2) + 36px);
+    margin-left: calc(((100% - 720px) / 2));
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 665px;
+    height: 665px;
+    margin-right: calc(((100% - 720px) / 2));
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-top: -992px;
+    margin-left: calc(((100% - 720px) / 2));
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    margin-top: 1065px;
+    margin-left: calc(((100% - 540px) / 2));
+    margin-right: calc(((100% - 540px) / 2));
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 511px;
+    height: 511px;
+    margin-top: 391px;
+    margin-right: calc(((100% - 540px) / 2));
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-top: -1486px;
+    margin-left: calc(((100% - 540px) / 2));
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 474px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.75rem;
+    margin-top: 1081px;
+    margin-left: calc(((100% - 340px) / 2));
+    margin-right: calc(((100% - 340px) / 2));
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 311px;
+    height: 311px;
+    margin-top: 369px;
+    margin-right: calc(((100% - 340px) / 2));
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 340px;
+    margin-top: -1324px;
+    margin-left: calc(((100% - 340px) / 2));
+  }
+}
